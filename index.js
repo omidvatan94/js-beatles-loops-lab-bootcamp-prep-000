@@ -13,5 +13,5 @@ function johnLennonFacts() {
   "He hated the sound of his own voice"];
 }
   var newFacts = [];
-  var
+  var i = 0
 
